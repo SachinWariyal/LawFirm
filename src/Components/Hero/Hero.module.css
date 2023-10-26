@@ -1,0 +1,57 @@
+.wrapper{
+    display: flex;
+}
+
+.heroText{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: 30px;
+    width: 571px;
+    height: 194px;
+    margin-top: 250px;
+    margin-left: 156px;
+
+}
+.paraText{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    width: 560px;
+    height: 99px;
+    margin-left: 158px;
+    opacity: 30%;
+    margin-top: 30px;
+}
+.heroImage{
+    margin-left: 320px;
+    margin-top: 122px;
+    width: 467.71px;
+    height: 544.71px;
+}
+.emailInput{
+    margin-left: 154px;
+    margin-top: 30px;
+    width: 438px;
+    height: 74px;
+    border-radius: 43px;
+    opacity: 10%;
+}
+/* .emailInput::placeholder{
+    color: white;
+    align-items: center;
+    size: 16px;
+    
+} */
+
+button{
+    height: 62px;
+    width: 137px;
+    margin-left: -150px;
+    margin-top: 30px;
+    border-radius: 43px;
+    background-color: var(--color-yellow);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    position: relative;
+}

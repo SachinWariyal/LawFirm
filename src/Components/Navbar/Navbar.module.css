@@ -1,0 +1,27 @@
+.wrapper{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    margin-left: 153px;
+    margin-top: 61px;
+
+}
+/* .navLogo{
+    height: 30.3px;
+    width: 30.41px;
+    margin-left: 153px;
+    margin-top: 61px;
+
+} */
+.navOptions{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 431px;
+    margin-left: 508px;
+}
+.contactNow{
+    margin-left: 500px;
+    border: 2px solid var(--color-white);
+    padding: 15px;
+}
